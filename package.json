@@ -1,6 +1,6 @@
 {
-  "name": "BradleyChery/fullstack_db",
-  "version": "1.0.0",
+  "name": "fsa_fullstack_db",
+  "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
