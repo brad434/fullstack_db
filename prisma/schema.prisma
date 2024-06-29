@@ -34,7 +34,7 @@ enum Role {
 model Product {
   id Int @id @default(autoincrement())
   name String
-  description String?
+  description String
   price Float?
   quantity Int
   catgoryId Int
